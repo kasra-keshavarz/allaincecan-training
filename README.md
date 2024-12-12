@@ -41,7 +41,7 @@ distributions should be able to offer all the libraries above through
 their remote package repositories. If not, it is recommended to compile
 and store them for future use.
 
-## Digital Research Alliance of Canada (DRA) Narval HPC
+## Digital Research Alliance of Canada (DRAC) Narval HPC
 Fortunately, all the above requirements are available on the DRAC
 HPCs. You may load the modules with the following command:
 ```console
