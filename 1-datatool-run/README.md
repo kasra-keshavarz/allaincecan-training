@@ -13,7 +13,7 @@ foo@narval-compute-node:~$ ./extract-dataset.sh  \
   --end-date="1985-01-31" \
   --shape-file=$HOME/scratch/alliancecan-training-data/modelling/0-geofabric/bow-at-calgary-geofabric/bcalgary_subbasins.shp \
   --prefix=bow_at_calgary_ \
-  --cluster=$HOME/github-repos/allaincecan-training/1-datatool-run/drac-narval.json \
+  --cluster=$HOME/github-repos/alliancecan-training/1-datatool-run/drac-narval.json \
   --variable=RDRS_v2.1_A_PR0_SFC,RDRS_v2.1_P_FB_SFC,RDRS_v2.1_P_FI_SFC,RDRS_v2.1_P_HU_09944,RDRS_v2.1_P_TT_09944,RDRS_v2.1_P_UVC_09944,RDRS_v2.1_P_P0_SFC;
 ```
 

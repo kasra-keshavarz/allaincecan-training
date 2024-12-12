@@ -132,7 +132,7 @@ After the activation of the virtual environment, you may install any
 Python package within the environment. To install those we need for
 the modelling workflows:
 ```console
-(hydrology-env) foo@narval1:~$ pip install -r $HOME/github-repos/allaincecan-training/0-prerequisites/requirements.txt
+(hydrology-env) foo@narval1:~$ pip install -r $HOME/github-repos/alliancecan-training/0-prerequisites/requirements.txt
 ```
 
 Once the `hydrology-env` is ready, you may add the virtual environment
