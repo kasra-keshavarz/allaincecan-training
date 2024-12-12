@@ -1,4 +1,5 @@
 # Run `datatool`
+![RDRSv2.1 subset over the Bow river at Calgary Watershed](./rdrs-bow-at-calgary.png)
 
 To run `datatool`, we can follow:
 
@@ -16,4 +17,4 @@ foo@narval-compute-node:~$ ./extract-dataset.sh  \
   --variable=RDRS_v2.1_A_PR0_SFC,RDRS_v2.1_P_FB_SFC,RDRS_v2.1_P_FI_SFC,RDRS_v2.1_P_HU_09944,RDRS_v2.1_P_TT_09944,RDRS_v2.1_P_UVC_09944,RDRS_v2.1_P_P0_SFC;
 ```
 
-
+Last modified: December 12th, 2024
