@@ -1,10 +1,10 @@
-# Training session to set up MESH for the Bow River at Calgary catchment
+# Training session to set up ECCC National Water Model `MESH` for the Bow River at Calgary Watershed
 ![Bow River at Calgary Catchment](./0-prerequisites/img/calgary.png)
 
 To download this repository on the `$HOME` directory of your Narval account:
 ```console
 foo@narval1:~$ mkdir -p $HOME/github-repos/alliancecan-training/
-foo@narval1:~$ git clone https://github.com/kasra-keshavarz/allaincecan-training.git ./github-repos/alliancecan-training
+foo@narval1:~$ git clone https://github.com/kasra-keshavarz/alliancecan-training.git ./github-repos/alliancecan-training
 ```
 
 # Library requirements
