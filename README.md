@@ -161,7 +161,7 @@ Jupyter sessions.
   
    Download with:
    ```console
-   foo@narval1:~$ git clone git+https://github.com/ShervanGharari/EASYMORE.git $HOME/github-repos/easymore/
+   foo@narval1:~$ git clone https://github.com/ShervanGharari/EASYMORE.git $HOME/github-repos/easymore/
    ```
 
 3. Required data: [Public Globus link](https://app.globus.org/file-manager?origin_id=d60a36e8-9388-4e51-87ba-f38fb6aab740&origin_path=%2F)
