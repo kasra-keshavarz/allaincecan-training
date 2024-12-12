@@ -156,6 +156,7 @@ Jupyter sessions.
    ```console
    foo@narval1:~$ git clone -b iss41 --single-branch https://github.com/kasra-keshavarz/datatool.git $HOME/github-repos/datatool/
    ```
+   See documentations at: https://datatool.readthedocs.org/en/latest
 
 2. EASYMORE (v2.0.0): https://github.com/ShervanGharari/EASYMORE </b>
   
