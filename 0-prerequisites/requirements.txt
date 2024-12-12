@@ -4,7 +4,7 @@ argon2_cffi==21.3.0
 argon2_cffi_bindings==21.2.0
 asttokens==2.2.1
 async_generator==1.10
-attrs==21.4.0
+attrs==22.2.0
 backcall==0.2.0
 backports-abc==0.5
 backports.shutil_get_terminal_size==1.0.0

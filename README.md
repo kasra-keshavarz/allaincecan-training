@@ -132,7 +132,7 @@ After the activation of the virtual environment, you may install any
 Python package within the environment. To install those we need for
 the modelling workflows:
 ```console
-(hydrology-env) foo@narval1:~$ pip install -r ~/github-repos/allaincecan-training/0-prerequisites/requirements.txt
+(hydrology-env) foo@narval1:~$ pip install -r $HOME/github-repos/allaincecan-training/0-prerequisites/requirements.txt
 ```
 
 Once the `hydrology-env` is ready, you may add the virtual environment
@@ -154,14 +154,14 @@ Jupyter sessions.
 
    Download with:
    ```console
-   foo@narval1:~$ git clone https://github.com/kasra-keshavarz/datatool.git ./github-repos/datatool/
+   foo@narval1:~$ git clone https://github.com/kasra-keshavarz/datatool.git $HOME/github-repos/datatool/
    ```
 
 2. EASYMORE (v2.0.0): https://github.com/ShervanGharari/EASYMORE </b>
   
    Download with:
    ```console
-   foo@narval1:~$ git clone git+https://github.com/ShervanGharari/EASYMORE.git ./github-repos/easymore/
+   foo@narval1:~$ git clone git+https://github.com/ShervanGharari/EASYMORE.git $HOME/github-repos/easymore/
    ```
 
 3. Required data: [Public Globus link](https://app.globus.org/file-manager?origin_id=d60a36e8-9388-4e51-87ba-f38fb6aab740&origin_path=%2F)
