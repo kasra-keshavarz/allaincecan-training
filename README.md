@@ -69,7 +69,7 @@ foo@narval1:~$ module load \
 > expected.
 
 
-It is recommended to save all load modules as a list to be able to restore
+It is recommended to save all loaded modules as a list to be able to restore
 them whenever needed. Using the LMOD features, you may save them with:
 ```console
 foo@narval1:~$ module save hydrology-modules
