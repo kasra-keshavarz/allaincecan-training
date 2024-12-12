@@ -149,12 +149,12 @@ Once added as a kernel, you should your virtual environment within your
 Jupyter sessions.
 ![Virtual environment within a Jupyter Session](./0-prerequisites/img/jupyter-venv.png)
 
-# Additional datasets necessary
-1. Datatool (version v0.5.1-dev): https://github.com/kasra-keshavarz/datatool </b>
+# Additional necessities
+1. Datatool (version v0.7.0-dev): https://github.com/kasra-keshavarz/datatool </b>
 
    Download with:
    ```console
-   foo@narval1:~$ git clone https://github.com/kasra-keshavarz/datatool.git $HOME/github-repos/datatool/
+   foo@narval1:~$ git clone -b iss41 --single-branch https://github.com/kasra-keshavarz/datatool.git $HOME/github-repos/datatool/
    ```
 
 2. EASYMORE (v2.0.0): https://github.com/ShervanGharari/EASYMORE </b>
